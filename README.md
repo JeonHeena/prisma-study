@@ -1,2 +1,4 @@
 # prisma-study
-prisma-study with documents
+
+
+This is a repository containing what I studied by referring to the Prisma document.
