@@ -19,3 +19,15 @@ Building a backend API with
 4. Validtion
 5. Error Handling
 6. Complex Relations
+
+<NestJS Directory>
+- src/app.module.ts : The root module of the application
+- src/app.controller.ts : A basic controller with a single route: /. This route will return a simple 'Hello world!' message.
+- src/main.ts : The entry point of the application. It will start the NestJS Application.
+
+<start the project>
+command
+-> npm run start:dev
+
+(This command will watch the files, automatically recompiling and reloading the server whenever I make a change.
+To verify the server is running, go to the URL "http://localhost:3000/". and see an empty page with the message 'Hello World!;.)
