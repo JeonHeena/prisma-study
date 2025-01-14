@@ -31,3 +31,8 @@ command
 
 (This command will watch the files, automatically recompiling and reloading the server whenever I make a change.
 To verify the server is running, go to the URL "http://localhost:3000/". and see an empty page with the message 'Hello World!;.)
+
+<Create a PostgreSQL instance>
+command
+-> touch docker-compose.yml
+(docker-compose.yml file is a configuration file that will contain the specifications for running a docker container with PostgreSQL setup inside)
