@@ -4,6 +4,8 @@ This is a repository containing what I studied by referring to the Prisma docume
 
 ## Building a REST API with NestJS, PostgreSQL, Swagger and Prisma
 
+_Building the backend REST API for a blog application called "Median"_
+
 Building a backend API with
 
 - TypeScript
